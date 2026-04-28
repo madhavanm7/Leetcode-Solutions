@@ -2,7 +2,7 @@
 Problem : Stack
 Problem Name : Evaluate Reverse Polish Notation
 LEETCODE # : 150
-Difficulty : Easy
+Difficulty : Medium
 Topic : Array | Math | Stack
 
 Approach : Calculate the answer using Evaluating Postfix method 
