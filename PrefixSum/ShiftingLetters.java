@@ -1,3 +1,5 @@
+
+
 /*
 Problem : PREFIX SUM
 LEETCODE # : 848
@@ -10,6 +12,7 @@ Approach : Finding SuffixSum of the given array
 Time Complexity  : O(n) [Traversing the string through characters for shifting]
 Space Complexity : O(1)
 */
+
 class Solution {
     public String shiftingLetters(String s, int[] shifts) {
         int n = shifts.length;
