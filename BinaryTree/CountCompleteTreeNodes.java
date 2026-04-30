@@ -9,7 +9,7 @@ Approach : Calculating no of node using post order traversal
 
 Time Complexity  : O(n) Traversing all nodes
 Space Complexity : O(n) Recursive calls [Stack]
-*/
+
 --------------------------------------------------------------------------------
 /*
  * Definition for a binary tree node.
@@ -26,6 +26,7 @@ Space Complexity : O(n) Recursive calls [Stack]
  *     }
  * }
  */
+
 class Solution {
     public int countNodes(TreeNode root) {
         int count = 0;
