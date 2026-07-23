@@ -1,4 +1,6 @@
-public class Solution {
+package LinkedList;
+
+class Solution {
   public ListNode detectCycle(ListNode head) {
     // Initialize two pointers, slow and fast, to the head of the linked list.
     ListNode slow = head;
